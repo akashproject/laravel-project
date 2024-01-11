@@ -1,0 +1,32 @@
+@media (min-width:1920px){
+.main__header .container{max-width:1792px;}
+.navbar__top .navbar___brand{max-width:280px;}
+.navbar__top .navbar__nav li a{font-size:16px;}
+.navbar__top .nav__info__right{margin-left:64px;}
+.navbar__top .donate__btn{margin-left:64px;}
+}
+
+@media (max-width:1789px){
+.main__header .container{max-width:1640px;}
+.navbar__top .navbar___brand{max-width:240px;}
+.navbar__top .navbar__nav li{margin:0px 22px;}
+.navbar__top .navbar__nav li a{font-size:16px;}
+.navbar__top .nav__info__right{margin-left:64px;}
+.navbar__top .donate__btn{margin-left:64px;}
+.main__banner{max-width:1640px;}
+}
+
+@media (max-width:1599px){
+.main__header .container{max-width:1500px;}
+.top__header .top__header__inner .top__contact__info .contact__info__inner a{font-size:14px;}
+.top__header .top__header__inner .user__info .user__account ul li a{font-size:16px;}
+.navbar__top .navbar___brand{max-width:240px;}
+.navbar__top .navbar__nav li{margin:0px 16px;}
+.navbar__top .navbar__nav li a{font-size:14px;}
+.navbar__top .nav__info__right{margin-left:24px;}
+.navbar__top .form__group{padding:0px 10px; height:45px;}
+.navbar__top .form__group .form__control{font-size:14px;}
+.navbar__top .donate__btn{margin-left:24px;}
+.navbar__top .donate__btn a{font-size:14px; height:45px;}
+.main__banner{max-width:1500px;}
+}
